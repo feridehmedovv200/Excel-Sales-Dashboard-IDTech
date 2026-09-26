@@ -19,7 +19,7 @@ The main objective of this project is to transform raw sales transactional data 
 ---
 
 ## 🖼️ Dashboard Preview
-![Sales Analysis Dashboard](image_02b5b9.png)
+![Sales Analysis Dashboard]	<img width="1623" height="749" alt="image" src="https://github.com/user-attachments/assets/825ede4a-a320-43e4-a6a8-95af9bec331d" />
 
 ---
 
